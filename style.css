@@ -43,6 +43,7 @@ header.startup h1 {
   text-transform: none;
   border-radius: 300px;
   font-family: 'Sniglet', cursive;
+  align-items: center;
 }
 
 .btn-xl {
@@ -51,7 +52,8 @@ header.startup h1 {
 
 .btn-primary {
   background-color: #666060;
-  border-color: #666060; }
+  border-color: #666060;
+   }
 
 .btn-primary:hover {
   background-color: #666060;
